@@ -1,0 +1,251 @@
+club_name,league,season,arrivals_count,departures_count,total_expenditure_million_eur,total_income_million_eur,net_balance_million_eur
+Chelsea FC,Premier League,22/23,35,27,630.25,67.86,-562.39
+Chelsea FC,Premier League,23/24,39,32,464.1,278.7,-185.4
+Paris Saint-Germain,Ligue 1,23/24,46,32,454.5,207.5,-247.0
+Al-Hilal SFC,Saudi Pro League,23/24,28,22,376.1,1.38,-374.73
+FC Barcelona,LaLiga,17/18,18,12,375.1,232.5,-142.6
+Real Madrid,LaLiga,19/20,34,23,361.3,136.8,-224.5
+Manchester City,Premier League,17/18,38,32,317.5,91.35,-226.15
+FC Barcelona,LaLiga,19/20,30,23,304.0,154.4,-149.6
+Brighton & Hove Albion,Premier League,24/25,32,25,279.95,49.99,-229.96
+Chelsea FC,Premier League,24/25,45,33,276.0,228.9,-47.1
+Tottenham Hotspur,Premier League,23/24,33,22,272.1,120.7,-151.4
+Juventus FC,Serie A,18/19,54,36,265.3,112.54,-152.76
+Paris Saint-Germain,Ligue 1,18/19,26,18,262.0,114.75,-147.25
+Chelsea FC,Premier League,17/18,47,31,260.5,194.6,-65.9
+Manchester City,Premier League,23/24,24,21,259.6,138.8,-120.8
+AtlÃ©tico de Madrid,LaLiga,19/20,24,20,247.35,316.3,68.95
+Chelsea FC,Premier League,20/21,43,26,247.2,57.15,-190.05
+Manchester United,Premier League,24/25,22,19,246.3,103.0,-143.3
+Manchester United,Premier League,22/23,27,22,243.28,23.65,-219.63
+Manchester City,Premier League,24/25,21,13,243.0,141.0,-102.0
+Paris Saint-Germain,Ligue 1,24/25,30,26,239.92,130.1,-109.82
+Paris Saint-Germain,Ligue 1,17/18,18,15,238.0,98.4,-139.6
+Manchester United,Premier League,19/20,16,12,236.8,81.18,-155.62
+Juventus FC,Serie A,19/20,29,24,236.21,208.14,-28.07
+Arsenal FC,Premier League,23/24,17,17,235.1,69.2,-165.9
+Manchester City,Premier League,16/17,42,25,216.25,35.35,-180.9
+Aston Villa,Premier League,24/25,31,28,214.2,257.17,42.97
+SSC Napoli,Serie A,19/20,72,43,210.02,48.72,-161.3
+Chelsea FC,Premier League,18/19,41,33,208.8,83.25,-125.55
+Manchester City,Premier League,15/16,29,25,208.47,67.44,-141.03
+Manchester United,Premier League,23/24,22,25,203.3,58.34,-144.96
+Everton FC,Premier League,17/18,27,20,203.2,126.38,-76.82
+Juventus FC,Serie A,16/17,122,84,202.23,176.93,-25.3
+AS Monaco,Ligue 1,19/20,53,42,200.0,83.75,-116.25
+Manchester United,Premier League,17/18,13,10,198.4,45.5,-152.9
+Nottingham Forest,Premier League,22/23,48,29,198.35,5.0,-193.35
+West Ham United,Premier League,22/23,14,13,196.6,21.55,-175.05
+Manchester United,Premier League,14/15,29,27,195.35,46.7,-148.65
+AC Milan,Serie A,18/19,36,30,194.64,88.1,-106.54
+Juventus FC,Serie A,24/25,38,33,193.3,105.9,-87.4
+Inter Milan,Serie A,19/20,72,52,192.02,66.74,-125.28
+Sevilla FC,LaLiga,19/20,41,34,188.73,131.4,-57.33
+Bayern Munich,Bundesliga,23/24,23,19,187.5,175.42,-12.08
+AC Milan,Serie A,17/18,44,36,186.48,39.7,-146.78
+Arsenal FC,Premier League,22/23,32,18,186.4,23.8,-162.6
+AtlÃ©tico de Madrid,LaLiga,24/25,22,22,185.0,93.9,-91.1
+Newcastle United,Premier League,22/23,17,12,185.0,14.06,-170.94
+Manchester United,Premier League,16/17,10,13,185.0,47.25,-137.75
+Al-Ahli SFC,Saudi Pro League,23/24,37,30,184.1,1.74,-182.35
+Liverpool FC,Premier League,18/19,22,21,182.2,41.32,-140.88
+Juventus FC,Serie A,17/18,98,72,181.5,145.65,-35.85
+Tottenham Hotspur,Premier League,22/23,23,18,179.9,38.75,-141.15
+Wolverhampton Wanderers,Premier League,22/23,37,29,179.51,62.87,-116.64
+RB Leipzig,Bundesliga,23/24,32,27,179.5,243.7,64.2
+Tottenham Hotspur,Premier League,24/25,23,20,175.35,55.3,-120.05
+Al-Nassr FC,Saudi Pro League,24/25,33,28,175.35,20.12,-155.23
+Liverpool FC,Premier League,17/18,16,15,173.65,184.5,10.85
+Manchester City,Premier League,20/21,39,27,173.4,64.0,-109.4
+Liverpool FC,Premier League,23/24,19,18,172.0,60.7,-111.3
+Manchester City,Premier League,19/20,38,26,169.82,71.0,-98.82
+AtlÃ©tico de Madrid,LaLiga,18/19,29,19,168.0,57.9,-110.1
+Arsenal FC,Premier League,21/22,22,20,167.4,31.4,-136.0
+FC Barcelona,LaLiga,14/15,16,15,166.72,81.8,-84.92
+AS Roma,Serie A,18/19,66,47,166.35,150.47,-15.88
+Real Madrid,LaLiga,18/19,24,14,164.75,136.1,-28.65
+Inter Milan,Serie A,16/17,97,57,164.71,18.5,-146.21
+Al-Nassr FC,Saudi Pro League,23/24,35,25,164.01,1.52,-162.5
+Leeds United,Premier League,22/23,26,20,163.89,114.5,-49.39
+Juventus FC,Serie A,20/21,26,21,162.81,110.56,-52.25
+Arsenal FC,Premier League,19/20,20,21,160.8,53.65,-107.15
+Aston Villa,Premier League,19/20,26,24,159.5,3.0,-156.5
+FC Barcelona,LaLiga,22/23,24,22,159.0,39.5,-119.5
+Manchester United,Premier League,15/16,21,20,156.0,100.67,-55.33
+Manchester City,Premier League,22/23,33,24,155.0,162.17,7.17
+Stade Rennais FC,Ligue 1,24/25,45,29,154.95,177.3,22.35
+Juventus FC,Serie A,15/16,135,85,153.5,81.28,-72.22
+Southampton FC,Premier League,22/23,22,14,153.11,5.5,-147.61
+Arsenal FC,Premier League,17/18,15,16,152.85,162.4,9.55
+Ipswich Town,Premier League,24/25,22,22,152.59,2.36,-150.23
+SSC Napoli,Serie A,24/25,55,33,151.5,82.5,-69.0
+Liverpool FC,Premier League,14/15,30,21,151.43,99.27,-52.16
+Tottenham Hotspur,Premier League,19/20,16,15,150.5,64.5,-86.0
+Bayern Munich,Bundesliga,24/25,29,20,149.0,84.35,-64.65
+Borussia Dortmund,Bundesliga,19/20,22,18,148.5,132.25,-16.25
+Newcastle United,Premier League,23/24,18,16,148.1,44.6,-103.5
+Olympique Lyon,Ligue 1,24/25,33,32,147.79,68.05,-79.74
+Paris Saint-Germain,Ligue 1,22/23,41,35,147.0,61.8,-85.2
+Bayern Munich,Bundesliga,22/23,22,17,146.5,121.9,-24.6
+AS Monaco,Ligue 1,18/19,51,33,145.85,367.25,221.4
+Liverpool FC,Premier League,22/23,12,14,145.8,80.7,-65.1
+West Ham United,Premier League,23/24,14,12,144.56,170.46,25.9
+West Ham United,Premier League,24/25,22,18,144.4,46.15,-98.25
+AC Milan,Serie A,19/20,35,32,144.08,59.23,-84.85
+Valencia CF,LaLiga,15/16,25,18,143.9,50.0,-93.9
+Manchester United,Premier League,21/22,20,14,142.0,31.1,-110.9
+Juventus FC,Serie A,21/22,31,20,141.65,64.03,-77.62
+FC Barcelona,LaLiga,18/19,27,21,141.1,146.05,4.95
+Borussia Dortmund,Bundesliga,16/17,15,8,141.1,111.0,-30.1
+Bayern Munich,Bundesliga,19/20,11,11,139.5,54.0,-85.5
+Real Madrid,LaLiga,23/24,12,11,139.5,7.0,-132.5
+Manchester City,Premier League,21/22,35,24,138.9,93.8,-45.1
+Chelsea FC,Premier League,14/15,57,48,137.7,142.81,5.11
+Inter Milan,Serie A,17/18,89,70,137.63,79.24,-58.39
+Paris Saint-Germain,Ligue 1,16/17,21,15,134.5,59.8,-74.7
+Al-Ittihad Club,Saudi Pro League,24/25,47,40,133.54,12.2,-121.34
+Chelsea FC,Premier League,16/17,41,30,132.8,108.9,-23.9
+AS Roma,Serie A,21/22,55,42,132.05,17.24,-114.82
+Newcastle United,Premier League,21/22,12,10,130.5,,-130.5
+Aston Villa,Premier League,21/22,26,20,129.8,127.0,-2.8
+Valencia CF,LaLiga,18/19,31,24,129.2,68.8,-60.4
+AC Milan,Serie A,23/24,40,30,129.08,67.27,-61.81
+Leeds United,Premier League,20/21,17,17,127.8,,-127.8
+Nottingham Forest,Premier League,23/24,43,46,127.7,82.82,-44.88
+AFC Bournemouth,Premier League,23/24,26,24,127.29,1.5,-125.79
+AFC Bournemouth,Premier League,24/25,24,24,126.87,66.09,-60.79
+Inter Milan,Serie A,20/21,59,42,126.75,82.95,-43.8
+Liverpool FC,Premier League,15/16,30,24,126.5,90.55,-35.95
+Olympique Lyon,Ligue 1,19/20,19,16,126.0,160.32,34.32
+Real Madrid,LaLiga,14/15,10,9,126.0,112.1,-13.9
+SSC Napoli,Serie A,23/24,45,34,126.0,101.7,-24.3
+RB Leipzig,Bundesliga,21/22,31,20,125.62,113.5,-12.12
+FC Barcelona,LaLiga,16/17,16,13,124.75,33.8,-90.95
+Wolverhampton Wanderers,Premier League,24/25,27,18,124.4,116.2,-8.21
+Al-Ittihad Club,Saudi Pro League,23/24,49,36,124.17,,-123.42
+Shanghai SIPG,,,20,17,123.3,4.4,-118.9
+Juventus FC,Serie A,22/23,39,28,122.75,111.59,-11.16
+Borussia Dortmund,Bundesliga,17/18,19,16,122.59,270.95,148.36
+AS Monaco,Ligue 1,17/18,35,23,122.4,199.5,77.1
+Southampton FC,Premier League,24/25,37,20,122.15,41.59,-80.56
+AC Milan,Serie A,24/25,41,34,121.7,50.8,-70.9
+Olympique Marseille,Ligue 1,22/23,36,34,121.55,37.48,-84.08
+Everton FC,Premier League,19/20,27,23,121.0,87.8,-33.2
+Tottenham Hotspur,Premier League,17/18,16,12,121.0,103.8,-17.2
+AtlÃ©tico de Madrid,LaLiga,14/15,32,27,120.35,89.3,-31.05
+West Ham United,Premier League,19/20,15,18,119.8,55.73,-64.07
+RB Leipzig,Bundesliga,24/25,28,19,119.5,98.0,-21.5
+AtlÃ©tico de Madrid,LaLiga,15/16,35,24,119.0,152.0,33.0
+Arsenal FC,Premier League,14/15,21,22,118.98,27.8,-91.18
+Chelsea FC,Premier League,21/22,25,24,118.0,155.59,37.59
+Wolverhampton Wanderers,Premier League,18/19,43,48,117.5,23.3,-94.2
+AS Roma,Serie A,19/20,54,44,117.4,107.18,-10.23
+Wolverhampton Wanderers,Premier League,19/20,32,26,116.7,24.1,-92.6
+Fulham FC,Premier League,18/19,20,15,116.5,5.35,-111.15
+Bayern Munich,Bundesliga,17/18,17,11,116.5,32.25,-84.25
+Paris Saint-Germain,Ligue 1,15/16,13,11,116.1,22.9,-93.2
+SL Benfica,Liga Portugal,20/21,40,27,115.0,81.72,-33.28
+Leicester City,Premier League,18/19,21,19,114.6,95.8,-18.8
+SL Benfica,Liga Portugal,22/23,44,41,114.05,276.62,162.57
+Ajax Amsterdam,Eredivisie,22/23,23,23,113.17,216.62,103.46
+Aston Villa,Premier League,22/23,25,22,113.0,54.0,-59.0
+Arsenal FC,Premier League,16/17,13,12,113.0,10.35,-102.65
+FC Barcelona,LaLiga,20/21,22,15,111.94,154.4,42.46
+Aston Villa,Premier League,23/24,18,16,111.5,32.55,-78.95
+Burnley FC,Premier League,23/24,35,26,111.05,3.8,-107.25
+Hertha BSC,Bundesliga,19/20,20,18,110.7,23.45,-87.26
+Tottenham Hotspur,Premier League,20/21,18,13,110.5,13.3,-97.2
+Olympique Marseille,Ligue 1,24/25,34,31,110.5,100.8,-9.7
+Al-Ahli SFC,Saudi Pro League,24/25,19,18,110.0,12.44,-97.56
+Ajax Amsterdam,Eredivisie,23/24,28,20,109.3,157.15,47.85
+Arsenal FC,Premier League,24/25,15,15,108.9,83.79,-25.11
+Newcastle United,Premier League,15/16,28,24,107.91,5.43,-102.48
+AS Roma,Serie A,24/25,40,32,107.4,30.5,-76.9
+Brighton & Hove Albion,Premier League,23/24,32,23,106.85,189.0,82.15
+Atalanta BC,Serie A,22/23,111,77,105.95,135.35,29.4
+Nottingham Forest,Premier League,24/25,33,33,105.5,86.7,-18.8
+Borussia Dortmund,Bundesliga,22/23,14,11,104.6,82.0,-22.6
+Atalanta BC,Serie A,24/25,34,29,104.3,115.75,11.45
+Leicester City,Premier League,19/20,19,14,104.3,88.5,-15.8
+Al-Hilal SFC,Saudi Pro League,24/25,23,25,102.95,14.85,-88.1
+Manchester City,Premier League,14/15,22,17,102.8,30.3,-72.5
+AS Roma,Serie A,16/17,89,68,102.65,76.43,-26.22
+Olympique Marseille,Ligue 1,23/24,37,29,102.6,79.1,-23.5
+Inter Milan,Serie A,15/16,92,79,102.45,115.32,12.87
+Parma Calcio 1913,Serie A,20/21,81,59,102.33,4.0,-98.33
+AC Milan,Serie A,15/16,68,58,102.28,11.16,-91.12
+AS Roma,Serie A,14/15,71,48,102.16,41.6,-60.56
+SL Benfica,Liga Portugal,23/24,30,27,101.5,110.58,9.08
+Aston Villa,Premier League,20/21,14,15,101.35,2.77,-98.58
+Crystal Palace,Premier League,16/17,23,24,101.2,50.2,-51.0
+Jiangsu Suning,,,14,14,101.1,9.53,-91.58
+AS Monaco,Ligue 1,15/16,42,33,101.0,175.4,74.4
+West Ham United,Premier League,18/19,20,13,100.9,13.77,-87.14
+AC Milan,Serie A,21/22,45,29,100.44,5.12,-95.32
+Real Madrid,LaLiga,15/16,21,12,100.4,24.15,-76.25
+Botafogo de Futebol e Regatas,,,49,47,99.9,46.1,-53.8
+Everton FC,Premier League,18/19,27,24,99.8,28.65,-71.15
+Bayer 04 Leverkusen,Bundesliga,19/20,12,10,99.7,33.5,-66.2
+LOSC Lille,Ligue 1,19/20,24,18,99.4,171.0,71.6
+SSC Napoli,Serie A,16/17,59,40,99.09,116.81,17.72
+Brentford FC,Premier League,24/25,18,19,98.4,74.5,-23.9
+RB Leipzig,Bundesliga,19/20,16,15,98.2,45.25,-52.95
+Inter Milan,Serie A,18/19,77,58,97.6,91.17,-6.43
+Como 1907,Serie A,24/25,66,46,96.7,3.7,-93.0
+Chelsea FC,Premier League,15/16,54,39,96.5,87.49,-9.01
+Real Betis BalompiÃ©,LaLiga,19/20,28,21,96.45,72.0,-24.45
+Southampton FC,Premier League,14/15,26,24,96.0,123.83,27.83
+RB Leipzig,Bundesliga,16/17,15,14,95.95,,-95.85
+Tottenham Hotspur,Premier League,21/22,18,20,95.9,34.62,-61.28
+AtlÃ©tico de Madrid,LaLiga,17/18,23,21,95.6,104.0,8.4
+Juventus FC,Serie A,23/24,37,29,95.45,66.73,-28.72
+Paris Saint-Germain,Ligue 1,19/20,24,19,95.0,112.4,17.4
+Zenit St. Petersburg,Premier Liga,17/18,28,20,95.0,16.72,-78.28
+Wolverhampton Wanderers,Premier League,23/24,33,32,94.0,169.2,75.2
+Liverpool FC,Premier League,21/22,15,12,93.0,31.65,-61.35
+Villarreal CF,LaLiga,18/19,31,24,92.9,54.8,-38.1
+Leicester City,Premier League,16/17,17,19,92.1,66.05,-26.05
+AtlÃ©tico de Madrid,LaLiga,20/21,22,17,92.0,83.3,-8.7
+Crystal Palace,Premier League,24/25,25,20,91.9,100.7,8.8
+Guangzhou Evergrande Taobao,,,25,25,91.86,6.72,-85.14
+VfB Stuttgart,Bundesliga,24/25,35,28,91.7,80.12,-11.58
+AFC Bournemouth,Premier League,18/19,14,16,91.6,20.2,-71.4
+Fulham FC,Premier League,24/25,12,12,91.55,68.8,-22.75
+AS Roma,Serie A,17/18,82,62,91.3,166.1,74.8
+Paris Saint-Germain,Ligue 1,21/22,34,19,91.0,11.0,-80.0
+Bayern Munich,Bundesliga,15/16,11,11,90.75,33.0,-57.75
+Inter Milan,Serie A,24/25,57,37,90.65,14.24,-76.41
+Brighton & Hove Albion,Premier League,18/19,36,29,90.62,13.62,-77.0
+Borussia Dortmund,Bundesliga,18/19,20,19,90.5,114.2,23.7
+Borussia Dortmund,Bundesliga,24/25,22,19,89.2,58.6,-30.6
+Leicester City,Premier League,24/25,17,14,89.05,47.25,-41.8
+AS Monaco,Ligue 1,24/25,16,12,88.75,47.5,-41.25
+Bologna FC 1909,Serie A,23/24,42,39,88.67,25.4,-63.26
+Sociedade Esportiva Palmeiras,,,31,26,88.45,136.1,47.65
+Eintracht Frankfurt,Bundesliga,23/24,39,31,88.1,149.0,60.9
+Wolverhampton Wanderers,Premier League,20/21,28,27,87.59,79.2,-8.39
+Stade Rennais FC,Ligue 1,23/24,26,26,86.4,146.5,60.1
+Arsenal FC,Premier League,20/21,20,19,86.0,19.15,-66.85
+Everton FC,Premier League,16/17,21,19,86.0,60.8,-25.2
+AtlÃ©tico de Madrid,LaLiga,21/22,31,20,85.7,22.75,-62.95
+Crystal Palace,Premier League,21/22,14,16,85.62,,-85.62
+Aston Villa,Championship,16/17,25,25,85.5,45.8,-39.7
+Liverpool FC,Premier League,20/21,21,14,84.8,17.2,-67.6
+AS Monaco,Ligue 1,23/24,20,18,84.6,62.0,-22.6
+Stade Rennais FC,Ligue 1,22/23,30,23,84.0,95.0,11.0
+Manchester United,Premier League,20/21,21,17,83.95,19.5,-64.45
+Leicester City,Premier League,17/18,17,14,83.85,50.1,-33.75
+West Ham United,Premier League,16/17,22,17,83.5,41.0,-42.5
+Tottenham Hotspur,Premier League,16/17,11,9,83.5,52.3,-31.2
+Al-Qadsiah FC,Saudi Pro League,24/25,34,32,83.36,,-83.36
+AFC Bournemouth,Premier League,22/23,21,15,83.1,,-83.1
+Everton FC,Premier League,22/23,26,23,83.07,103.6,20.53
+Bayer 04 Leverkusen,Bundesliga,23/24,17,17,83.0,69.2,-13.8
+OGC Nice,Ligue 1,22/23,38,31,83.0,49.2,-33.8
+CA River Plate,,,33,32,52.5,39.38,-13.12
+CD Cruz Azul,Liga MX Apertura,18/19,32,20,52.19,7.77,-44.43
+CD Cruz Azul,Liga MX Apertura,24/25,19,13,50.78,19.26,-31.52
+CR Flamengo,,,21,21,47.53,30.35,-17.18
+CA Boca Juniors,,,34,28,42.64,56.0,13.36
+CD Cruz Azul,Liga MX Apertura,23/24,18,20,41.8,14.75,-27.05
+Esporte Clube Bahia,,,27,25,29.95,16.13,-13.83

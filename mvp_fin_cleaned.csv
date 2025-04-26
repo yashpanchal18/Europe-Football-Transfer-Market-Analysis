@@ -1,0 +1,501 @@
+player_name,age,club,nation,market_value_million_eur
+Erling Haaland,24,Manchester City,Norway,200.0
+Vinicius Junior,24,Real Madrid,Brazil,200.0
+Lamine Yamal,17,FC Barcelona,Spain,180.0
+Jude Bellingham,21,Real Madrid,England,180.0
+Kylian MbappÃ©,26,Real Madrid,France,170.0
+Bukayo Saka,23,Arsenal FC,England,150.0
+Florian Wirtz,21,Bayer 04 Leverkusen,Germany,140.0
+Jamal Musiala,22,Bayern Munich,Germany,140.0
+Cole Palmer,22,Chelsea FC,England,130.0
+Phil Foden,24,Manchester City,England,130.0
+Federico Valverde,26,Real Madrid,Uruguay,130.0
+Rodri,28,Manchester City,Spain,130.0
+Pedri,22,FC Barcelona,Spain,120.0
+Declan Rice,26,Arsenal FC,England,110.0
+Rodrygo,24,Real Madrid,Brazil,100.0
+Alexander Isak,25,Newcastle United,Sweden,100.0
+Martin Ãdegaard,26,Arsenal FC,Norway,100.0
+Lautaro MartÃ­nez,27,Inter Milan,Argentina,95.0
+JuliÃ¡n Alvarez,25,AtlÃ©tico de Madrid,Argentina,90.0
+Alexis Mac Allister,26,Liverpool FC,Argentina,90.0
+Harry Kane,31,Bayern Munich,England,90.0
+Luis DÃ­az,28,Liverpool FC,Colombia,85.0
+MoisÃ©s Caicedo,23,Chelsea FC,Ecuador,80.0
+Michael Olise,23,Bayern Munich,France,80.0
+Bruno GuimarÃ£es,27,Newcastle United,Brazil,80.0
+Khvicha Kvaratskhelia,24,Paris Saint-Germain,Georgia,80.0
+William Saliba,24,Arsenal FC,France,80.0
+Dominik Szoboszlai,24,Liverpool FC,Hungary,80.0
+AurÃ©lien TchouamÃ©ni,25,Real Madrid,France,80.0
+Raphinha,28,FC Barcelona,Brazil,80.0
+Alessandro Bastoni,25,Inter Milan,Italy,80.0
+NicolÃ² Barella,28,Inter Milan,Italy,80.0
+Enzo FernÃ¡ndez,24,Chelsea FC,Argentina,75.0
+Josko Gvardiol,23,Manchester City,Croatia,75.0
+Omar Marmoush,26,Manchester City,Egypt,75.0
+Gabriel MagalhÃ£es,27,Arsenal FC,Brazil,75.0
+Rafael LeÃ£o,25,AC Milan,Portugal,75.0
+Viktor GyÃ¶keres,26,Sporting CP,Sweden,75.0
+Marcus Thuram,27,Inter Milan,France,75.0
+Trent Alexander-Arnold,26,Liverpool FC,England,75.0
+Ousmane DembÃ©lÃ©,27,Paris Saint-Germain,France,75.0
+Pau CubarsÃ­,18,FC Barcelona,Spain,70.0
+Nico Williams,22,Athletic Bilbao,Spain,70.0
+Bradley Barcola,22,Paris Saint-Germain,France,70.0
+Gavi,20,FC Barcelona,Spain,70.0
+Eduardo Camavinga,22,Real Madrid,France,70.0
+Xavi Simons,21,RB Leipzig,Netherlands,70.0
+Ryan Gravenberch,22,Liverpool FC,Netherlands,70.0
+Cody Gakpo,25,Liverpool FC,Netherlands,70.0
+Victor Osimhen,26,Galatasaray,Nigeria,70.0
+Kai Havertz,25,Arsenal FC,Germany,70.0
+RÃºben Dias,27,Manchester City,Portugal,70.0
+JoÃ£o Neves,20,Paris Saint-Germain,Portugal,65.0
+Benjamin Sesko,21,RB Leipzig,Slovenia,65.0
+Anthony Gordon,24,Newcastle United,England,65.0
+Achraf Hakimi,26,Paris Saint-Germain,Morocco,65.0
+DÃ©sirÃ© DouÃ©,19,Paris Saint-Germain,France,60.0
+Warren ZaÃ¯re-Emery,19,Paris Saint-Germain,France,60.0
+Alejandro Balde,21,FC Barcelona,Spain,60.0
+Oihan Sancet,24,Athletic Bilbao,Spain,60.0
+Vitinha,25,Paris Saint-Germain,Portugal,60.0
+Dejan Kulusevski,24,Tottenham Hotspur,Sweden,60.0
+MartÃ­n Zubimendi,26,Real Sociedad,Spain,60.0
+Jules KoundÃ©,26,FC Barcelona,France,60.0
+Ademola Lookman,27,Atalanta BC,Nigeria,60.0
+LoÃ¯s Openda,25,RB Leipzig,Belgium,60.0
+Ibrahima KonatÃ©,25,Liverpool FC,France,60.0
+Dani Olmo,26,FC Barcelona,Spain,60.0
+Federico Dimarco,27,Inter Milan,Italy,60.0
+EstÃªvÃ£o,17,Sociedade Esportiva Palmeiras,Brazil,55.0
+Murillo,22,Nottingham Forest,Brazil,55.0
+Leny Yoro,19,Manchester United,France,55.0
+Ethan Nwaneri,18,Arsenal FC,England,55.0
+Kobbie Mainoo,19,Manchester United,England,55.0
+Nicolas Jackson,23,Chelsea FC,Senegal,55.0
+Savinho,21,Manchester City,Brazil,55.0
+Hugo EkitikÃ©,22,Eintracht Frankfurt,France,55.0
+Gabriel Martinelli,23,Arsenal FC,Brazil,55.0
+Nuno Mendes,22,Paris Saint-Germain,Portugal,55.0
+Levi Colwill,22,Chelsea FC,England,55.0
+Micky van de Ven,23,Tottenham Hotspur,Netherlands,55.0
+Matheus Cunha,25,Wolverhampton Wanderers,Brazil,55.0
+JÃ©rÃ©my Doku,22,Manchester City,Belgium,55.0
+Amadou Onana,23,Aston Villa,Belgium,55.0
+Eberechi Eze,26,Crystal Palace,England,55.0
+Cristian Romero,26,Tottenham Hotspur,Argentina,55.0
+Bruno Fernandes,30,Manchester United,Portugal,55.0
+Mohamed Salah,32,Liverpool FC,Egypt,55.0
+Samu Aghehowa,20,FC Porto,Spain,50.0
+Aleksandar Pavlovic,20,Bayern Munich,Germany,50.0
+Pablo Barrios,21,AtlÃ©tico de Madrid,Spain,50.0
+Jamie Gittens,20,Borussia Dortmund,England,50.0
+Jarrad Branthwaite,22,Everton FC,England,50.0
+Piero HincapiÃ©,23,Bayer 04 Leverkusen,Ecuador,50.0
+FermÃ­n LÃ³pez,21,FC Barcelona,Spain,50.0
+JoÃ£o Pedro,23,Brighton & Hove Albion,Brazil,50.0
+Castello Lukeba,22,RB Leipzig,France,50.0
+Ãderson,25,Atalanta BC,Brazil,50.0
+Ãlex Baena,23,Villarreal CF,Spain,50.0
+Darwin NÃºÃ±ez,25,Liverpool FC,Uruguay,50.0
+Mohammed Kudus,24,West Ham United,Ghana,50.0
+Bremer,28,Juventus FC,Brazil,50.0
+Morgan Rogers,22,Aston Villa,England,50.0
+Pedro Neto,25,Chelsea FC,Portugal,50.0
+Jeremie Frimpong,24,Bayer 04 Leverkusen,Netherlands,50.0
+Ronald Araujo,26,FC Barcelona,Uruguay,50.0
+Manuel Ugarte,24,Manchester United,Uruguay,50.0
+Brennan Johnson,23,Tottenham Hotspur,Wales,50.0
+Tijjani Reijnders,26,AC Milan,Netherlands,50.0
+Curtis Jones,24,Liverpool FC,England,50.0
+Morgan Gibbs-White,25,Nottingham Forest,England,50.0
+Alphonso Davies,24,Bayern Munich,Canada,50.0
+Jurrien Timber,23,Arsenal FC,Netherlands,50.0
+Bryan Mbeumo,25,Brentford FC,Cameroon,50.0
+Dayot Upamecano,26,Bayern Munich,France,50.0
+Ben White,27,Arsenal FC,England,50.0
+Ollie Watkins,29,Aston Villa,England,50.0
+Christian Pulisic,26,AC Milan,United States,50.0
+James Maddison,28,Tottenham Hotspur,England,50.0
+Marcus Rashford,27,Aston Villa,England,50.0
+Joshua Kimmich,30,Bayern Munich,Germany,50.0
+Geovany Quenda,17,Sporting CP,Portugal,45.0
+Arda GÃ¼ler,20,Real Madrid,TÃ¼rkiye,45.0
+Kenan YÄ±ldÄ±z,19,Juventus FC,TÃ¼rkiye,45.0
+Alejandro Garnacho,20,Manchester United,Argentina,45.0
+Willian Pacho,23,Paris Saint-Germain,Ecuador,45.0
+Victor Boniface,24,Bayer 04 Leverkusen,Nigeria,45.0
+Rasmus HÃ¸jlund,22,Manchester United,Denmark,45.0
+Destiny Udogie,22,Tottenham Hotspur,Italy,45.0
+Mateo Retegui,25,Atalanta BC,Italy,45.0
+Pedro Porro,25,Tottenham Hotspur,Spain,45.0
+GonÃ§alo Ramos,23,Paris Saint-Germain,Portugal,45.0
+GonÃ§alo InÃ¡cio,23,Sporting CP,Portugal,45.0
+Jonathan David,25,LOSC Lille,Canada,45.0
+Kaoru Mitoma,27,Brighton & Hove Albion,Japan,45.0
+Min-jae Kim,28,Bayern Munich,"Korea, South",45.0
+Lisandro MartÃ­nez,27,Manchester United,Argentina,45.0
+Morten Hjulmand,25,Sporting CP,Denmark,45.0
+Sandro Tonali,24,Newcastle United,Italy,45.0
+Marc GuÃ©hi,24,Crystal Palace,England,45.0
+Alessandro Buongiorno,25,SSC Napoli,Italy,45.0
+Sven Botman,25,Newcastle United,Netherlands,45.0
+DuÅ¡an VlahoviÄ,25,Juventus FC,Serbia,45.0
+Christopher Nkunku,27,Chelsea FC,France,45.0
+Diogo Jota,28,Liverpool FC,Portugal,45.0
+Frenkie de Jong,27,FC Barcelona,Netherlands,45.0
+Jarrod Bowen,28,West Ham United,England,45.0
+Brahim DÃ­az,25,Real Madrid,Morocco,45.0
+Dominic Solanke,27,Tottenham Hotspur,England,45.0
+Bernardo Silva,30,Manchester City,Portugal,45.0
+Dean Huijsen,19,AFC Bournemouth,Spain,42.0
+Ousmane Diomande,21,Sporting CP,Cote d'Ivoire,40.0
+Endrick,18,Real Madrid,Brazil,40.0
+Hugo Larsson,20,Eintracht Frankfurt,Sweden,40.0
+Mathys Tel,19,Tottenham Hotspur,France,40.0
+Maghnes Akliouche,23,AS Monaco,France,40.0
+JoÃ£o Gomes,24,Wolverhampton Wanderers,Brazil,40.0
+Rico Lewis,20,Manchester City,England,40.0
+Ilya Zabarnyi,22,AFC Bournemouth,Ukraine,40.0
+Jhon DurÃ¡n,21,Al-Nassr FC,Colombia,40.0
+RomÃ©o Lavia,21,Chelsea FC,Belgium,40.0
+Pape Matar Sarr,22,Tottenham Hotspur,Senegal,40.0
+Edmond Tapsoba,26,Bayer 04 Leverkusen,Burkina Faso,40.0
+Amad Diallo,22,Manchester United,Cote d'Ivoire,40.0
+Dani Vivian,25,Athletic Bilbao,Spain,40.0
+Noni Madueke,23,Chelsea FC,England,40.0
+Riccardo Calafiori,22,Arsenal FC,Italy,40.0
+Karim Adeyemi,23,Borussia Dortmund,Germany,40.0
+Conor Gallagher,25,AtlÃ©tico de Madrid,England,40.0
+Nico GonzÃ¡lez,23,Manchester City,Spain,40.0
+KhÃ©phren Thuram,24,Juventus FC,France,40.0
+Andrea Cambiaso,25,Juventus FC,Italy,40.0
+Takefusa Kubo,23,Real Sociedad,Japan,40.0
+Exequiel Palacios,26,Bayer 04 Leverkusen,Argentina,40.0
+Ãder MilitÃ£o,27,Real Madrid,Brazil,40.0
+Pau Torres,28,Aston Villa,Spain,40.0
+Nico Schlotterbeck,25,Borussia Dortmund,Germany,40.0
+Moise Kean,25,ACF Fiorentina,Italy,40.0
+Gabriel Jesus,28,Arsenal FC,Brazil,40.0
+Teun Koopmeiners,27,Juventus FC,Netherlands,40.0
+Robin Le Normand,28,AtlÃ©tico de Madrid,Spain,40.0
+Theo HernÃ¡ndez,27,AC Milan,France,40.0
+Joelinton,28,Newcastle United,Brazil,40.0
+Matthijs de Ligt,25,Manchester United,Netherlands,40.0
+Scott McTominay,28,SSC Napoli,Scotland,40.0
+Serhou Guirassy,29,Borussia Dortmund,Guinea,40.0
+David Raya,29,Arsenal FC,Spain,40.0
+Gregor Kobel,27,Borussia Dortmund,Switzerland,40.0
+JoÃ£o Palhinha,29,Bayern Munich,Portugal,40.0
+Alejandro Grimaldo,29,Bayer 04 Leverkusen,Spain,40.0
+Marquinhos,30,Paris Saint-Germain,Brazil,40.0
+Douglas Luiz,26,Juventus FC,Brazil,38.0
+Angelo Stiller,24,VfB Stuttgart,Germany,38.0
+Charles De Ketelaere,24,Atalanta BC,Belgium,38.0
+Boubacar Kamara,25,Aston Villa,France,38.0
+Diogo Costa,25,FC Porto,Portugal,38.0
+Leroy SanÃ©,29,Bayern Munich,Germany,38.0
+Santiago Gimenez,23,AC Milan,Mexico,37.0
+Francisco ConceiÃ§Ã£o,22,Juventus FC,Portugal,36.0
+Carlos Baleba,21,Brighton & Hove Albion,Cameroon,35.0
+Nico Paz,20,Como 1907,Argentina,35.0
+Archie Gray,19,Tottenham Hotspur,England,35.0
+Santiago Castro,20,Bologna FC 1909,Argentina,35.0
+Abdukodir Khusanov,21,Manchester City,Uzbekistan,35.0
+Alan Varela,23,FC Porto,Argentina,35.0
+Adam Wharton,21,Crystal Palace,England,35.0
+Milos Kerkez,21,AFC Bournemouth,Hungary,35.0
+Evanilson,25,AFC Bournemouth,Brazil,35.0
+Manu KonÃ©,23,AS Roma,France,35.0
+Malo Gusto,21,Chelsea FC,France,35.0
+Liam Delap,22,Ipswich Town,England,35.0
+Rayan Cherki,21,Olympique Lyon,France,35.0
+Matheus Nunes,26,Manchester City,Portugal,35.0
+Antoine Semenyo,25,AFC Bournemouth,Ghana,35.0
+Anthony Elanga,22,Nottingham Forest,Sweden,35.0
+Rayan AÃ¯t-Nouri,23,Wolverhampton Wanderers,Algeria,35.0
+Giorgio Scalvini,21,Atalanta BC,Italy,35.0
+Enzo Millot,22,VfB Stuttgart,France,35.0
+Harvey Elliott,22,Liverpool FC,England,35.0
+Johan Bakayoko,21,PSV Eindhoven,Belgium,35.0
+Mason Greenwood,23,Olympique Marseille,England,35.0
+Tino Livramento,22,Newcastle United,England,35.0
+Lucas PaquetÃ¡,27,West Ham United,Brazil,35.0
+Joshua Zirkzee,23,Manchester United,Netherlands,35.0
+Ezri Konsa,27,Aston Villa,England,35.0
+Moussa Diaby,25,Al-Ittihad Club,France,35.0
+Diogo Dalot,26,Manchester United,Portugal,35.0
+FabiÃ¡n Ruiz,29,Paris Saint-Germain,Spain,35.0
+Antonee Robinson,27,Fulham FC,United States,35.0
+Mikel Merino,28,Arsenal FC,Spain,35.0
+Jonathan Burkardt,24,1.FSV Mainz 05,Germany,35.0
+Justin Kluivert,25,AFC Bournemouth,Netherlands,35.0
+Gianluigi Donnarumma,26,Paris Saint-Germain,Italy,35.0
+Guglielmo Vicario,28,Tottenham Hotspur,Italy,35.0
+Youri Tielemans,27,Aston Villa,Belgium,35.0
+Kingsley Coman,28,Bayern Munich,France,35.0
+Jack Grealish,29,Manchester City,England,35.0
+Hakan ÃalhanoÄlu,31,Inter Milan,TÃ¼rkiye,35.0
+Mohamed Amoura,24,VfL Wolfsburg,Algeria,32.0
+AntÃ³nio Silva,21,SL Benfica,Portugal,32.0
+Evan Ferguson,20,West Ham United,Ireland,32.0
+Georgiy Sudakov,22,Shakhtar Donetsk,Ukraine,32.0
+Jan Paul van Hecke,24,Brighton & Hove Albion,Netherlands,32.0
+Georginio Rutter,22,Brighton & Hove Albion,France,32.0
+TomÃ¡s AraÃºjo,22,SL Benfica,Portugal,32.0
+Jacob Ramsey,23,Aston Villa,England,32.0
+MattÃ©o Guendouzi,25,SS Lazio,France,32.0
+Quinten Timber,23,Feyenoord Rotterdam,Netherlands,32.0
+DÃ¡vid Hancko,27,Feyenoord Rotterdam,Slovakia,32.0
+Davide Frattesi,25,Inter Milan,Italy,32.0
+Emile Smith Rowe,24,Fulham FC,England,32.0
+Leon Bailey,27,Aston Villa,Jamaica,32.0
+Noussair Mazraoui,27,Manchester United,Morocco,32.0
+Manuel Akanji,29,Manchester City,Switzerland,32.0
+Joachim Andersen,28,Fulham FC,Denmark,32.0
+AndrÃ© Onana,29,Manchester United,Cameroon,32.0
+Nathan AkÃ©,30,Manchester City,Netherlands,32.0
+Ayyoub Bouaddi,17,LOSC Lille,France,30.0
+Yankuba Minteh,20,Brighton & Hove Albion,The Gambia,30.0
+Vitor Reis,19,Manchester City,Brazil,30.0
+RaÃºl Asencio,22,Real Madrid,Spain,30.0
+Jorrel Hato,19,Ajax Amsterdam,Netherlands,30.0
+Eliesse Ben Seghir,20,AS Monaco,Morocco,30.0
+LoÃ¯c BadÃ©,25,Sevilla FC,France,30.0
+Lewis Hall,20,Newcastle United,England,30.0
+Simon Adingra,23,Brighton & Hove Albion,Cote d'Ivoire,30.0
+Bilal El Khannouss,20,Leicester City,Morocco,30.0
+Cristhian Mosquera,20,Valencia CF,Spain,30.0
+Marc CasadÃ³,21,FC Barcelona,Spain,30.0
+Youssouf Fofana,26,AC Milan,France,30.0
+YÃ©remy Pino,22,Villarreal CF,Spain,30.0
+Elliot Anderson,22,Nottingham Forest,England,30.0
+Kang-in Lee,24,Paris Saint-Germain,"Korea, South",30.0
+Cheick DoucourÃ©,25,Crystal Palace,Mali,30.0
+Mykhaylo Mudryk,24,Chelsea FC,Ukraine,30.0
+Maximilian Kilman,27,West Ham United,England,30.0
+Isak Hien,26,Atalanta BC,Sweden,30.0
+Giorgi Mamardashvili,24,Valencia CF,Georgia,30.0
+Randal Kolo Muani,26,Juventus FC,France,30.0
+Reece James,25,Chelsea FC,England,30.0
+David Neres,28,SSC Napoli,Brazil,30.0
+Samuele Ricci,23,Torino FC,Italy,30.0
+Malik Tillman,22,PSV Eindhoven,United States,30.0
+Lucas Chevalier,23,LOSC Lille,France,30.0
+Yann Bisseck,24,Inter Milan,Germany,30.0
+Pedro GonÃ§alves,26,Sporting CP,Portugal,30.0
+Jean-Philippe Mateta,27,Crystal Palace,France,30.0
+Francisco TrincÃ£o,25,Sporting CP,Portugal,30.0
+Edson Ãlvarez,27,West Ham United,Mexico,30.0
+Jadon Sancho,25,Chelsea FC,England,30.0
+Harvey Barnes,27,Newcastle United,England,30.0
+Yoane Wissa,28,Brentford FC,DR Congo,30.0
+Ferdi KadÄ±oÄlu,25,Brighton & Hove Albion,TÃ¼rkiye,30.0
+Rodrigo Bentancur,27,Tottenham Hotspur,Uruguay,30.0
+Hiroki Ito,25,Bayern Munich,Japan,30.0
+Benjamin Pavard,29,Inter Milan,France,30.0
+Mikel Oyarzabal,27,Real Sociedad,Spain,30.0
+Pervis EstupiÃ±Ã¡n,27,Brighton & Hove Albion,Ecuador,30.0
+Artem Dovbyk,27,AS Roma,Ukraine,30.0
+Denis Zakaria,28,AS Monaco,Switzerland,30.0
+Marc Cucurella,26,Chelsea FC,Spain,30.0
+Lucas HernÃ¡ndez,29,Paris Saint-Germain,France,30.0
+Jonathan Tah,29,Bayer 04 Leverkusen,Germany,30.0
+John Stones,30,Manchester City,England,30.0
+Leandro Trossard,30,Arsenal FC,Belgium,30.0
+Heung-min Son,32,Tottenham Hotspur,"Korea, South",30.0
+Antonio Nusa,19,RB Leipzig,Norway,28.0
+Myles Lewis-Skelly,18,Arsenal FC,England,28.0
+Ãlvaro Carreras,22,SL Benfica,Spain,28.0
+Danilo,23,Nottingham Forest,Brazil,28.0
+Mohamed Simakan,24,Al-Nassr FC,France,28.0
+Mario Gila,24,SS Lazio,Spain,28.0
+Jean-Clair Todibo,25,West Ham United,France,28.0
+NicolÃ² Rovella,23,SS Lazio,Italy,28.0
+Nico GonzÃ¡lez,27,Juventus FC,Argentina,28.0
+Ian Maatsen,23,Aston Villa,Netherlands,28.0
+Josip Stanisic,25,Bayern Munich,Croatia,28.0
+Nathan Collins,23,Brentford FC,Ireland,28.0
+Orkun KÃ¶kÃ§Ã¼,24,SL Benfica,TÃ¼rkiye,28.0
+Matty Cash,27,Aston Villa,Poland,28.0
+Nikola MilenkoviÄ,27,Nottingham Forest,Serbia,28.0
+Yves Bissouma,28,Tottenham Hotspur,Mali,28.0
+Joey Veerman,26,PSV Eindhoven,Netherlands,28.0
+Felix Nmecha,24,Borussia Dortmund,Germany,28.0
+Vitaliy Mykolenko,25,Everton FC,Ukraine,28.0
+Ferran Torres,25,FC Barcelona,Spain,28.0
+Ibrahim SangarÃ©,27,Nottingham Forest,Cote d'Ivoire,28.0
+Mason Mount,26,Manchester United,England,28.0
+Joe Willock,25,Newcastle United,England,28.0
+Vangelis Pavlidis,26,SL Benfica,Greece,28.0
+Denzel Dumfries,28,Inter Milan,Netherlands,28.0
+Brais MÃ©ndez,28,Real Sociedad,Spain,28.0
+Marcos Llorente,30,AtlÃ©tico de Madrid,Spain,28.0
+Manuel Locatelli,27,Juventus FC,Italy,28.0
+Unai SimÃ³n,27,Athletic Bilbao,Spain,28.0
+Ivan Toney,29,Al-Ahli SFC,England,28.0
+RÃºben Neves,28,Al-Hilal SFC,Portugal,28.0
+Virgil van Dijk,33,Liverpool FC,Netherlands,28.0
+Joel OrdÃ³Ã±ez,20,Club Brugge KV,Ecuador,27.0
+Wesley Fofana,24,Chelsea FC,France,27.0
+Brian Brobbey,23,Ajax Amsterdam,Netherlands,27.0
+Kevin Schade,23,Brentford FC,Germany,27.0
+Galeno,27,Al-Ahli SFC,Brazil,27.0
+JÃ¸rgen Strand Larsen,25,Wolverhampton Wanderers,Norway,27.0
+Lutsharel Geertruida,24,RB Leipzig,Netherlands,27.0
+Mats Wieffer,25,Brighton & Hove Albion,Netherlands,27.0
+Frank Anguissa,29,SSC Napoli,Cameroon,27.0
+Patrik Schick,29,Bayer 04 Leverkusen,Czech Republic,27.0
+Kevin De Bruyne,33,Manchester City,Belgium,27.0
+Pierre Kalulu,24,Juventus FC,France,26.0
+Zeno Debast,21,Sporting CP,Belgium,26.0
+Assane Diao,19,Como 1907,Senegal,25.0
+Patrick Dorgu,20,Manchester United,Denmark,25.0
+Lucas Beraldo,21,Paris Saint-Germain,Brazil,25.0
+Tyler Dibling,19,Southampton FC,England,25.0
+Lucas Bergvall,19,Tottenham Hotspur,Sweden,25.0
+Dango Ouattara,23,AFC Bournemouth,Burkina Faso,25.0
+Tom Bischof,19,TSG 1899 Hoffenheim,Germany,25.0
+AndrÃ©,23,Wolverhampton Wanderers,Brazil,25.0
+Luiz Henrique,24,Zenit St. Petersburg,Brazil,25.0
+Pietro Comuzzo,20,ACF Fiorentina,Italy,25.0
+Andrey Santos,20,RC Strasbourg Alsace,Brazil,25.0
+Malick Fofana,20,Olympique Lyon,Belgium,25.0
+Giuliano Simeone,22,AtlÃ©tico de Madrid,Argentina,25.0
+Alberto Moleiro,21,UD Las Palmas,Spain,25.0
+Tyrick Mitchell,25,Crystal Palace,England,25.0
+Brajan Gruda,20,Brighton & Hove Albion,Germany,25.0
+Samuel Lino,25,AtlÃ©tico de Madrid,Brazil,25.0
+Oscar Bobb,21,Manchester City,Norway,25.0
+Elye Wahi,22,Eintracht Frankfurt,France,25.0
+Igor PaixÃ£o,24,Feyenoord Rotterdam,Brazil,25.0
+Wilfried Singo,24,AS Monaco,Cote d'Ivoire,25.0
+Odilon Kossounou,24,Atalanta BC,Cote d'Ivoire,25.0
+Conor Bradley,21,Liverpool FC,Northern Ireland,25.0
+Ardon Jashari,22,Club Brugge KV,Switzerland,25.0
+Toti,26,Wolverhampton Wanderers,Portugal,25.0
+Leif Davis,25,Ipswich Town,England,25.0
+Dwight McNeil,25,Everton FC,England,25.0
+Maximilian Beier,22,Borussia Dortmund,Germany,25.0
+Thiago Almada,23,Olympique Lyon,Argentina,25.0
+Radu DrÄguÈin,23,Tottenham Hotspur,Romania,25.0
+Mika Biereth,22,AS Monaco,Denmark,25.0
+Bart Verbruggen,22,Brighton & Hove Albion,Netherlands,25.0
+Mikkel Damsgaard,24,Brentford FC,Denmark,25.0
+Anatoliy Trubin,23,SL Benfica,Ukraine,25.0
+Nuno Tavares,25,SS Lazio,Portugal,25.0
+Miguel GutiÃ©rrez,23,Girona FC,Spain,25.0
+Taty Castellanos,26,SS Lazio,Argentina,25.0
+PepÃª,28,FC Porto,Brazil,25.0
+Federico Gatti,26,Juventus FC,Italy,25.0
+Taylor Harwood-Bellis,23,Southampton FC,England,25.0
+Evann Guessand,23,OGC Nice,Cote d'Ivoire,25.0
+Edon Zhegrova,26,LOSC Lille,Kosovo,25.0
+Daniel MuÃ±oz,28,Crystal Palace,Colombia,25.0
+Facundo Medina,25,RC Lens,Argentina,25.0
+BafodÃ© DiakitÃ©,24,LOSC Lille,France,25.0
+BenoÃ®t Badiashile,24,Chelsea FC,France,25.0
+JoÃ£o FÃ©lix,25,AC Milan,Portugal,25.0
+Calvin Bassey,25,Fulham FC,Nigeria,25.0
+Marco Carnesecchi,24,Atalanta BC,Italy,25.0
+Sam Beukema,26,Bologna FC 1909,Netherlands,25.0
+Nahuel Molina,27,AtlÃ©tico de Madrid,Argentina,25.0
+Axel Disasi,27,Aston Villa,France,25.0
+Richarlison,27,Tottenham Hotspur,Brazil,25.0
+Evan Ndicka,25,AS Roma,Cote d'Ivoire,25.0
+Dan Ndoye,24,Bologna FC 1909,Switzerland,25.0
+Nayef Aguerd,29,Real Sociedad,Morocco,25.0
+Jerdy Schouten,28,PSV Eindhoven,Netherlands,25.0
+Gerson,27,CR Flamengo,Brazil,25.0
+Noa Lang,25,PSV Eindhoven,Netherlands,25.0
+Sander Berge,27,Fulham FC,Norway,25.0
+Takehiro Tomiyasu,26,Arsenal FC,Japan,25.0
+Donyell Malen,26,Aston Villa,Netherlands,25.0
+Malcom,28,Al-Hilal SFC,Brazil,25.0
+David Raum,26,RB Leipzig,Germany,25.0
+Dodi LukÃ©bakio,27,Sevilla FC,Belgium,25.0
+Aleksandr Golovin,28,AS Monaco,Russia,25.0
+Kevin Danso,26,Tottenham Hotspur,Austria,25.0
+Joe Gomez,27,Liverpool FC,England,25.0
+Rodrigo De Paul,30,AtlÃ©tico de Madrid,Argentina,25.0
+Alex Iwobi,28,Fulham FC,Nigeria,25.0
+Alexander SÃ¸rloth,29,AtlÃ©tico de Madrid,Norway,25.0
+Ederson,31,Manchester City,Brazil,25.0
+Konrad Laimer,27,Bayern Munich,Austria,25.0
+Ãlex Remiro,30,Real Sociedad,Spain,25.0
+Stanislav Lobotka,30,SSC Napoli,Slovakia,25.0
+Julian Brandt,28,Borussia Dortmund,Germany,25.0
+Adrien Rabiot,30,Olympique Marseille,France,25.0
+Mike Maignan,29,AC Milan,France,25.0
+Serge Gnabry,29,Bayern Munich,Germany,25.0
+Jan Oblak,32,AtlÃ©tico de Madrid,Slovenia,25.0
+Emiliano MartÃ­nez,32,Aston Villa,Argentina,25.0
+Thibaut Courtois,32,Real Madrid,Belgium,25.0
+Alisson,32,Liverpool FC,Brazil,25.0
+Mateo Kovacic,30,Manchester City,Croatia,25.0
+Aleksandar MitroviÄ,30,Al-Hilal SFC,Serbia,25.0
+Jack Hinshelwood,20,Brighton & Hove Albion,England,24.0
+Conrad Harder,20,Sporting CP,Denmark,24.0
+Marcos Senesi,27,AFC Bournemouth,Argentina,24.0
+Youssef En-Nesyri,27,Fenerbahce,Morocco,24.0
+Lewis Ferguson,25,Bologna FC 1909,Scotland,24.0
+Callum Hudson-Odoi,24,Nottingham Forest,England,24.0
+Arthur Theate,24,Eintracht Frankfurt,Belgium,24.0
+Weston McKennie,26,Juventus FC,United States,24.0
+Gianluca Scamacca,26,Atalanta BC,Italy,24.0
+Antonio RÃ¼diger,32,Real Madrid,Germany,24.0
+Ismael Saibari,24,PSV Eindhoven,Morocco,23.0
+Gabri Veiga,22,Al-Ahli SFC,Spain,23.0
+Keane Lewis-Potter,24,Brentford FC,England,23.0
+Kenneth Taylor,22,Ajax Amsterdam,Netherlands,23.0
+Pedro,27,CR Flamengo,Brazil,23.0
+Olivier Boscagli,27,PSV Eindhoven,France,23.0
+Albert Gudmundsson,27,ACF Fiorentina,Iceland,23.0
+Facundo Buonanotte,20,Leicester City,Argentina,22.0
+Stefanos Tzimas,19,1.FC Nuremberg,Greece,22.0
+Oscar Gloukh,21,Red Bull Salzburg,Israel,22.0
+Arthur Vermeeren,20,RB Leipzig,Belgium,22.0
+Lewis Miley,18,Newcastle United,England,22.0
+Jobe Bellingham,19,Sunderland AFC,England,22.0
+Omari Hutchinson,21,Ipswich Town,England,22.0
+Igor Thiago,23,Brentford FC,Brazil,22.0
+MatÃ­as SoulÃ©,21,AS Roma,Argentina,22.0
+Julio Enciso,21,Ipswich Town,Paraguay,22.0
+Jarell Quansah,22,Liverpool FC,England,22.0
+Iliman Ndiaye,25,Everton FC,Senegal,22.0
+Aitor Paredes,24,Athletic Bilbao,Spain,22.0
+Carlos Augusto,26,Inter Milan,Brazil,22.0
+Martin Baturina,22,GNK Dinamo Zagreb,Croatia,22.0
+Lorenzo Lucca,24,Udinese Calcio,Italy,22.0
+Gabriel Sara,25,Galatasaray,Brazil,22.0
+FÃ¡bio Vieira,24,FC Porto,Portugal,22.0
+Amine Adli,24,Bayer 04 Leverkusen,Morocco,22.0
+Yunus Musah,22,AC Milan,United States,22.0
+Aaron Wan-Bissaka,27,West Ham United,England,22.0
+Kiernan Dewsbury-Hall,26,Chelsea FC,England,22.0
+Crysencio Summerville,23,West Ham United,Netherlands,22.0
+Maxence Lacroix,25,Crystal Palace,France,22.0
+Jakub Kiwior,25,Arsenal FC,Poland,22.0
+IsmaÃ¯la Sarr,27,Crystal Palace,Senegal,22.0
+Matt O'Riley,24,Brighton & Hove Albion,Denmark,22.0
+DodÃ´,26,ACF Fiorentina,Brazil,22.0
+Kerem AktÃ¼rkoÄlu,26,SL Benfica,TÃ¼rkiye,22.0
+Igor,27,Brighton & Hove Albion,Brazil,22.0
+Josip Sutalo,25,Ajax Amsterdam,Croatia,22.0
+Ritsu Doan,26,SC Freiburg,Japan,22.0
+Raoul Bellanova,24,Atalanta BC,Italy,22.0
+Florentino,25,SL Benfica,Portugal,22.0
+Sean Longstaff,27,Newcastle United,England,22.0
+CaoimhÃ­n Kelleher,26,Liverpool FC,Ireland,22.0
+Eddie Nketiah,25,Crystal Palace,England,22.0
+Deniz Undav,28,VfB Stuttgart,Germany,22.0
+Ermedin Demirovic,27,VfB Stuttgart,Bosnia-Herzegovina,22.0
+Matvey Safonov,26,Paris Saint-Germain,Russia,22.0
+Tomas Soucek,30,West Ham United,Czech Republic,22.0
+Vitaly Janelt,26,Brentford FC,Germany,22.0
+Viktor Tsygankov,27,Girona FC,Ukraine,22.0
+Oleksandr Zinchenko,28,Arsenal FC,Ukraine,22.0
+Leon Goretzka,30,Bayern Munich,Germany,22.0
+Antoine Griezmann,34,AtlÃ©tico de Madrid,France,22.0
+Romelu Lukaku,31,SSC Napoli,Belgium,22.0
